@@ -1,0 +1,1 @@
+Pandas version: 1.5.3Numpy version: 1.24.3Matplotlib version: 3.7.1Seaborn version: 0.12.2
